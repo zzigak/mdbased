@@ -7,10 +7,11 @@ permalink: /about
 ## About Me
 
 <!-- <img align="right" width="200" height="200" src="/assets/pfp.png">-->
-<img width="200" height="200" src"/assets/pfp.png">
+<img width="200" height="200" src = "/assets/pfp.png">
 Hi There! I’m currently a rising sophomore undergraduate at Cornell University, studying Mathematics and Computer Science and focusing on computer graphics and vision.
 
-[Linkedin](https://www.linkedin.com/in/zigakovacic/)[X](https://twitter.com/zzigakovacic)
+
+**Connect with me here!** [Linkedin](https://www.linkedin.com/in/zigakovacic/)[X](https://twitter.com/zzigakovacic)
 
 
 
