@@ -14,7 +14,6 @@ Hi There! I’m currently a rising sophomore undergraduate at Cornell University
 
 **My academic record:**  <a href="/assets/CV.pdf">CV</a>
 
-
 ---
 
 ## Research Interest
