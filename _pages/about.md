@@ -6,6 +6,9 @@ permalink: /about
 
 ## About Me
 
+<div style="padding-left: 10px; padding-bottom: 50px; padding-right: 10px; padding-top: 30px; float: right; ">
+ <img align="right" width="250" height="250" src="/assets/pfp.png">
+</div>
 Hi There! I’m currently a rising sophomore undergraduate at Cornell University, studying Mathematics and Computer Science and focusing on computer graphics and vision.
 
 ## Research Interest
