@@ -10,7 +10,7 @@ permalink: /about
 Hi There! I’m currently a rising sophomore undergraduate at Cornell University, studying Mathematics and Computer Science and focusing on computer graphics and vision.
 
 
-**Connect with me!** <span style="color:purple"> [*Linkedin*](https://www.linkedin.com/in/zigakovacic/)[*X*](https://twitter.com/zzigakovacic) </span>.
+<span style="color:#4bc726"> **Connect with me!**  </span> [Linkedin](https://www.linkedin.com/in/zigakovacic/)[X (fka Twitter)](https://twitter.com/zzigakovacic)
 
 
 
