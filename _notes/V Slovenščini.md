@@ -2,4 +2,4 @@
 title: V Slovenščini
 ---
 
-No, zgleda da bom tukaj pisal v Slovenščini!
+Ta blog pa bom pisal v slovenščini!
