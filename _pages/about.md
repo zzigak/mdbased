@@ -6,10 +6,11 @@ permalink: /about
 
 ## About Me
 
-<div style="padding-left: 10px; padding-bottom: 50px; padding-right: 10px; padding-top: 30px; float: right; ">
- <img align="right" width="250" height="250" src="/assets/pfp.png">
-</div>
+ <img align="right" width="200" height="200" src="/assets/pfp.png">
 Hi There! I’m currently a rising sophomore undergraduate at Cornell University, studying Mathematics and Computer Science and focusing on computer graphics and vision.
+
+<br></br>
+<br></br>
 
 ## Research Interest
 My research interests lie broadly at the intersection of **computer graphics**, **computer vision**, and **machine learning**, particularly in 3D / 4D scene understanding and reconstruction, any type of image / video generation, or related software for smartphones.I'm fortunate enough to do research with prof. [Abe Davis](http://abedavis.com/).
