@@ -5,9 +5,11 @@ id: home
 permalink: /
 ---
 
+[[About]] [[Publications]] [[Projects]] [[Blog]]
 # Welcome! 🌱
 
 Hi There! I’m currently a rising sophomore undergraduate at Cornell University, studying Mathematics and Computer Science and focusing on computer graphics and vision.
+Find more about me here: [[About]]
 
 
 <strong>Recently updated notes</strong>
