@@ -12,9 +12,10 @@ Hi There! I’m currently a rising sophomore undergraduate at Cornell University
 
 <span style="color:#4bc726"> **Connect with me!**  </span> [Linkedin](https://www.linkedin.com/in/zigakovacic/)[X (fka Twitter)](https://twitter.com/zzigakovacic)
 
-**My academic profile:** <a href="/assets/CV.pdf">CV</a>
+<span style="color:#4bc726"> **My academic record:**  </span> <a href="/assets/CV.pdf">CV</a>
 
 
+---
 
 ## Research Interest
 My research interests lie broadly at the intersection of **computer graphics**, **computer vision**, and **machine learning**, particularly in 3D / 4D scene understanding and reconstruction, any type of image / video generation, or related software for smartphones.I'm fortunate enough to do research with prof. [Abe Davis](http://abedavis.com/).
