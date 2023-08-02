@@ -12,7 +12,7 @@ Hi There! I’m currently a rising sophomore undergraduate at Cornell University
 
 <span style="color:#4bc726"> **Connect with me!**  </span> [Linkedin](https://www.linkedin.com/in/zigakovacic/)[X (fka Twitter)](https://twitter.com/zzigakovacic)
 
-
+**My academic profile:** ![[/assets/CV.pdf]]
 
 
 
